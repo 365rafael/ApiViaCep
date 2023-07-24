@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiViaCep", "ApiViaCep.csproj", "{A3F5EFC8-4E11-43B6-8E88-25CA4F682363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F5EFC8-4E11-43B6-8E88-25CA4F682363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F5EFC8-4E11-43B6-8E88-25CA4F682363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F5EFC8-4E11-43B6-8E88-25CA4F682363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F5EFC8-4E11-43B6-8E88-25CA4F682363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42FCB07-01F4-4D6A-A90E-B82456C91FDB}
+	EndGlobalSection
+EndGlobal
